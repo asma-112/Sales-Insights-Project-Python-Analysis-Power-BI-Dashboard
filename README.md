@@ -20,4 +20,5 @@ The dataset is available on Kaggle:
 
 Columns include:  
 InvoiceNo, StockCode, Description, Quantity, UnitPrice, InvoiceDate, Country
+![Dashboard Preview](images/dashboard.png)
 
