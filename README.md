@@ -21,6 +21,8 @@ The dataset is available on Kaggle:
 Columns include:  
 InvoiceNo, StockCode, Description, Quantity, UnitPrice, InvoiceDate, Country
 ![Dashboard Preview](https://github.com/asma-112/Sales-Insights-Project-Python-Analysis-Power-BI-Dashboard/raw/main/dashboard.png)
+![Screenshot 2](https://github.com/asma-112/Sales-Insights-Project-Python-Analysis-Power-BI-Dashboard/raw/main/screenshot2.png)
+
 
 
 
